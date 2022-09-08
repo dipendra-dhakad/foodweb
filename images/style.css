@@ -1,0 +1,21 @@
+#oip{
+    height: 80px;
+    width: 150px;
+}
+
+.button{
+    align-items: center;
+    text-align: center;
+    margin-top: 5px;
+}
+.order{
+    width: 100%;
+   
+    background-size: cover;
+    padding: 16.875rem 0 9.735;
+}
+.DDD{
+   background: url(/images/bg/bg-3.jpg);
+   
+  
+}
