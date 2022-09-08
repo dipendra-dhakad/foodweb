@@ -115,7 +115,7 @@
    #client-section::before {
    content: "";
    position: absolute;
-   background: url('https://media.istockphoto.com/photos/colorful-fall-thanksgiving-harvest-background-with-apples-pumpkins-picture-id865189842?k=6&m=865189842&s=170667a&w=0&h=A_fTAemf1azmZnRj-ZsozBuACFCi1jqQnJLD7FPNbMk=');
+   background: url('https://images.pexels.com/photos/1414651/pexels-photo-1414651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
    width: 70%;
    height: 70%;
    z-index: -1;
@@ -147,10 +147,10 @@
     height: 100%;
     z-index: -1;
     opacity: 0.7;
-    background: url('/images/contact\ image.jpg') no-repeat center center/cover;
+    background: url('https://images.pexels.com/photos/775031/pexels-photo-775031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2') no-repeat center center/cover;
    }
    .contactbg{
-      background: url('/images/contact\ image.jpg');
+      background: url('https://images.pexels.com/photos/775031/pexels-photo-775031.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
    }
    #contact-box {
     display: flex;
@@ -220,7 +220,7 @@
   
 
    .clientbackground{
-    background-image: url(/images/bagroundimage1.jpg);
+    background-image: url("https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
    
     height: 569px;
     width: 1185px;
